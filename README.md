@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Jesus 👋
 
+🇲🇽 I'm currently working as a software engineer in [slissto](https://www.slissto.com).
+- ⚙️ I work building UI's with React Native and backend services with AWS.
+- 🦀 I'm also learning Rust.
+- ☎️ You can reach me on [twitter](https://www.twitter.com/jesusacovam)
 <!--
 **jesuscovam/jesuscovam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
