@@ -1,11 +1,11 @@
 ### Hi there, I'm Jesus 👋
 
-🇲🇽 I'm currently working as a software engineer @ [slissto](https://www.slissto.com).
-- ⚛️ Design Applications with React Native + Expo
-- ⚙️ Build backends with AWS (AppSync, S3, Cognito, Lambda, DynamoDB, CloudWatch).
-- 🦀 I'm also writing some lambdas from Node to Rust (right now)
-- 🎵 I play the bass and also make beats 
-- ☎️ You can reach me on [twitter](https://www.twitter.com/jesusacovam)
+- 🇲🇽 Building [slissto](https://www.slissto.com).
+- ⚙️ Manage Serverless TypeScripts Monorepos with Turborepo.
+- ♾️ Setup CI/CD for React Native apps with Github Actions & Expo EAS.
+- ☁️ Deploy backend updates on AWS with Amplify.
+- 🖍️ Playing with AI and Edge functions.
+
 <!--
 **jesuscovam/jesuscovam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
