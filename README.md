@@ -1,10 +1,6 @@
 ### Hi there, I'm Jesus 👋
 
-- 🇲🇽 Building [slissto](https://www.slissto.com).
-- ⚙️ Manage Serverless TypeScripts Monorepos with Turborepo.
-- ♾️ Setup CI/CD for React Native apps with Github Actions & Expo EAS.
-- ☁️ Deploy backend updates on AWS with Amplify.
-- 🖍️ Playing with AI and Edge functions.
+- Full Stack JavaScript developer [projects](https://jesuscova.com/projects)
 
 <!--
 **jesuscovam/jesuscovam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
